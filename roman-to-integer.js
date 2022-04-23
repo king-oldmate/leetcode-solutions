@@ -25,3 +25,7 @@ const rome = {
       }
       return int
   };
+
+  //really simple once I stopped over complicating it. My first attempt was splitting the string into pairs first, but it ran into issues. 
+
+  // now that I think of it, my rome object has a lot of unnecessary keys now.
